@@ -17,6 +17,7 @@
 * <https://github.com/Dmitriy-Putintsev/Homework-Money-Transfer/issues/1>
 
 В качестве тестовых данных использовались данные <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#задача-1---money-transfer>:
+
 * <Вывод сообщения о текущем балансе в размере 2500000000 рублей>
 
 Тестирование производилось в следующем окружении:
