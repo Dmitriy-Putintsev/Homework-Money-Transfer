@@ -8,15 +8,15 @@
 На тестирование затрачено: <1 час>
 
 В результате тестирования выявлены следующие дефекты:
-* <https://github.com/Dmitriy-Putintsev/Homework-Money-Transfer/issues>
+* [Отрицательный баланс счета после пополнения](https://github.com/Dmitriy-Putintsev/Homework-Money-Transfer/issues)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#задача-1---money-transfer>
-* <https://github.com/Dmitriy-Putintsev/Homework-Money-Transfer/issues/1>
+* [Задача 1](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#задача-1---money-transfer)
+* [Отрицательный баланс счета после пополнения](https://github.com/Dmitriy-Putintsev/Homework-Money-Transfer/issues/1)
 
-В качестве тестовых данных использовались данные <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#задача-1---money-transfer>:
+В качестве тестовых данных использовались данные [из Задачи 1](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#задача-1---money-transfer):
 
 * <Вывод сообщения о текущем балансе в размере 2500000000 рублей>
 
